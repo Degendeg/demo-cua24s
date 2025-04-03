@@ -64,5 +64,5 @@ jobs:
         with:
           app-name: 'demo-cua24s'
           slot-name: 'Production'
-          package: .
+          package: dist/
           
